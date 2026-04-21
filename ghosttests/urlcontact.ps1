@@ -1,0 +1,1 @@
+Start-Process "https://www.google.com/search?tbm=isch&q=ghosts"
