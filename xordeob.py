@@ -51,7 +51,7 @@ def decode_blob(blob, split_key, base):
 def main():
 
     # --- Input: encoded blob ---
-    print("[1] Paste the full encoded blob (the value between the quotes in var _a = \"...\").")
+    print("[1] Paste the full encoded blob ")
     print("    Press Enter twice when done.")
     print()
     lines = []
